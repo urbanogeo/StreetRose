@@ -28,27 +28,27 @@ StreetRose sokak yönlendirme verilerini iki modda işler:
 
 ## 1. Manuel Mod
 
-Kullanıcı bir Excel dosyasından sokak ağı verilerini yükler.
+-Kullanıcı bir Excel dosyasından sokak ağı verilerini yükler.
 
-Araç sokakların başlangıç ve bitiş koordinatlarını (x1, y1, x2, y2) kullanır.
+-Araç sokakların başlangıç ve bitiş koordinatlarını (x1, y1, x2, y2) kullanır.
 
-Trigonometrik fonksiyonları kullanarak sokak yönlerini hesaplar.
+-Trigonometrik fonksiyonları kullanarak sokak yönlerini hesaplar.
 
-Sonuçlar bir gül diyagramında görselleştirilir.
+-Sonuçlar bir gül diyagramında görselleştirilir.
 
-Kullanıcılar diyagramı özelleştirebilir ve sonuçları dışa aktarabilir.
+-Kullanıcılar diyagramı özelleştirebilir ve sonuçları dışa aktarabilir.
 
 ## 2. OSM Tabanlı Mod
 
-Kullanıcılar bir bölge belirler (örneğin, bir şehir veya mahalle).
+-Kullanıcılar bir bölge belirler (örneğin, bir şehir veya mahalle).
 
-Araç, OSMnx kullanarak yol ağı verilerini alır.
+-Araç, OSMnx kullanarak yol ağı verilerini alır.
 
-Sokak segmenti yönleri grafik kenarlarına göre hesaplanır.
+-Sokak segmenti yönleri grafik kenarlarına göre hesaplanır.
 
-Veriler jeo-uzamsal bir formatta işlenir ve analiz edilir.
+-Veriler jeo-uzamsal bir formatta işlenir ve analiz edilir.
 
-İstatistiksel özetlerle birlikte bir gül diyagramı oluşturulur.
+-İstatistiksel özetlerle birlikte bir gül diyagramı oluşturulur.
 
 
 ### Kurulum
