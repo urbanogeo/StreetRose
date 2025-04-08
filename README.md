@@ -116,3 +116,13 @@ StreetRose processes street routing data in two modes:
    ```bash
    git clone https://github.com/urbanogeo/StreetRose.git
    cd StreetRose
+
+
+#### Cite this tool
+Çobanlı, F.T., Kahraman, M. Leveraging artificial intelligence for computational urban analysis: building StreetRose with ChatGPT. Spat. Inf. Res. 33, 16 (2025). https://doi.org/10.1007/s41324-025-00614-3 
+
+#### Access to article
+https://rdcu.be/egRww
+
+![StreetRose_](https://github.com/user-attachments/assets/fefd0afc-5e75-43d0-8933-9078ecc1fcac)
+
