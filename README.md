@@ -4,6 +4,10 @@
 
  **StreetRose** is an urban analysis tool designed with artificial intelligence support to analyze and visualize street network orientations using OpenStreetMap (OSM) data. Built in Python and leveraging large language models (LLMs) such as ChatGPT, StreetRose automates the inference, computation and visualization of street directionality through rose diagrams. The tool provides both manual and automatic data processing modes, offering a solution for researchers interested in cities and street morphology.
  
+#### Cite this tool
+Çobanlı, F.T., Kahraman, M. Leveraging artificial intelligence for computational urban analysis: building StreetRose with ChatGPT. Spat. Inf. Res. 33, 16 (2025). https://doi.org/10.1007/s41324-025-00614-3 
+
+ 
 ![Figure 7](https://github.com/user-attachments/assets/dd70d86e-039f-4608-9d23-ccb4c0086797)
 
 ## Özellikler
